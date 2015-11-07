@@ -1,6 +1,6 @@
 |TeamName|Score|
 |--------|-----|
-|AustinNoobs|100|
+|AustinNoobs|200|
 |Sekuriga Truo|100|
 |noob|0|
 |DTW|0|
