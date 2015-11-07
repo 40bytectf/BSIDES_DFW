@@ -1,1 +1,3 @@
-TeamName:   Score
+|TeamName|Score|
+|--------|-----|
+|Sekuriga Truo|100|
