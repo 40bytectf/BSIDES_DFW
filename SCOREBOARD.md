@@ -1,6 +1,6 @@
 |TeamName|Score|
 |--------|-----|
-|AustinNoobs|400|
+|AustinNoobs|600|
 |Sekuriga Truo|300|
 |bm9ub2hvbGU|300|
 |noob|0|
