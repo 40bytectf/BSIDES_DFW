@@ -7,6 +7,7 @@
 |DTW|0|
 |marshmallow|0|
 |Hootusville|0|
+|someyunguy|0|
 
 |Challenges Solved|First Team|
 |---------------|------------|
