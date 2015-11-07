@@ -3,7 +3,7 @@
 |AustinNoobs|600|
 |Sekuriga Truo|600|
 |bm9ub2hvbGU|600|
-|noob|0|
+|noob|100|
 |DTW|0|
 |marshmallow|0|
 |Hootusville|0|
