@@ -16,4 +16,5 @@
 |pcap300|AustinNoobs|
 |crypto100|AustinNoobs|
 |crypto200|AustinNoobs|
+|crypto300(cipher)|bm9ub2hvbGU|
 |reven100|AustinNoobs|
