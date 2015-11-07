@@ -2,11 +2,11 @@
 |--------|-----|
 |AustinNoobs|400|
 |Sekuriga Truo|300|
+|bm9ub2hvbGU|300|
 |noob|0|
 |DTW|0|
 |marshmallow|0|
 |Hootusville|0|
-|bm9ub2hvbGU|0|
 
 |Challenges Solved|First Team|
 |---------------|------------|
