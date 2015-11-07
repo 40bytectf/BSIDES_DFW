@@ -1,14 +1,14 @@
-|TeamName|Score|
-|--------|-----|
-|AustinNoobs|700|
-|Sekuriga Truo|600|
-|bm9ub2hvbGU|600|
-|noob|300|
-|DTW|0|
-|marshmallow|0|
-|Hootusville|0|
-|someyunguy|0|
-
+|TeamName|Score|solved|
+|--------|-----|----------|
+|AustinNoobs|700|pcap100,200 crypto100,200 reveng100|
+|Sekuriga Truo|600|pcap100,200 crypto,100,200|
+|bm9ub2hvbGU|600|pcap100,200 crypto,100,200|
+|noob|300|pcap100,200|
+|DTW|0| |
+|marshmallow|0| |
+|Hootusville|0| |
+|someyunguy|0| |
+ 
 |Challenges Solved|First Team|
 |---------------|------------|
 |pcap100|Sekuriga Truo|
